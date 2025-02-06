@@ -210,7 +210,7 @@ function App() {
       cargo: "Hipster e CEO da Alura",
       imagem:
         "https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg",
-      time: times[5].nome,
+      time: times[5].nome ,
     },
   ];
 
